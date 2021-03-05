@@ -1,0 +1,4 @@
+gitignore
+data/
+model_gpt2/
+vocal_dir/
